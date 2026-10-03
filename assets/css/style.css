@@ -48,7 +48,7 @@ body::before {
 
 main { position: relative; z-index: 1; }
 
-img { max-width: 100%; display: block; }
+img { max-width: 100%; height: auto; display: block; }
 a { color: var(--accent-2); text-decoration: none; }
 
 .wrap { width: min(1120px, 92%); margin: 0 auto; }
